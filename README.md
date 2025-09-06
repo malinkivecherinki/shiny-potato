@@ -35,3 +35,8 @@ Added new features and improvements in update 18.
 ## Update 27
 
 Added new features and improvements in update 27.
+
+
+## Update 53
+
+Added new features and improvements in update 53.
