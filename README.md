@@ -1,7 +1,27 @@
-# shiny-potato
+# Project
 
-A development project with various utilities and tools.
+## Update 10
 
-## Getting Started
+This project includes various utilities and tools.
 
-This project contains scripts, utilities, and small applications.
+### Features
+
+- Feature 10
+- Utility functions
+- Configuration management
+
+### Installation
+
+\`\`\`bash
+npm install
+\`\`\`
+
+### Usage
+
+\`\`\`javascript
+const utils = require('./src/utils');
+\`\`\`
+
+### Changelog
+
+- Update 10: Added new features and improvements
