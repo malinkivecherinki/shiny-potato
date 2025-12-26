@@ -1,0 +1,13 @@
+{
+  "name": "project-name",
+  "version": "1.0.3",
+  "description": "A simple project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
