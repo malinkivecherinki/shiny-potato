@@ -1,42 +1,32 @@
-# Project
+# ConfigManager
 
-## Update 10
+Configuration management with environment support
 
-This project includes various utilities and tools.
+## Features
 
-### Features
+- Core functionality implementation
+- Well-documented codebase
+- Easy to use API
+- Extensible architecture
 
-- Feature 10
-- Utility functions
-- Configuration management
-
-### Installation
+## Installation
 
 \`\`\`bash
 npm install
+# or
+pip install -r requirements.txt
 \`\`\`
 
-### Usage
+## Usage
 
 \`\`\`javascript
-const utils = require('./src/utils');
+const ConfigManager = require('./src/index');
 \`\`\`
 
-### Changelog
+## Development
 
-- Update 10: Added new features and improvements
+This project is actively maintained and developed.
 
+## License
 
-## Update 18
-
-Added new features and improvements in update 18.
-
-
-## Update 27
-
-Added new features and improvements in update 27.
-
-
-## Update 53
-
-Added new features and improvements in update 53.
+MIT
